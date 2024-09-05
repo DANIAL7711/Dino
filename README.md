@@ -1,6 +1,6 @@
-## Dino Game
+# Dino Game
 
-# Control
+## Control
 
 Space = Jump
 
