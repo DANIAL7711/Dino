@@ -1,2 +1,2 @@
-## Dino Run
+### Dino Game
 
